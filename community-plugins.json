@@ -25191,5 +25191,12 @@
     "author": "akitaroh",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Inline GUI editor for Mermaid diagrams. Wikilinks, tags, math and rich markdown work inside nodes.",
     "repo": "akitaroh/obsidian-mermaid-maker"
+  },
+  {
+    "id": "wisemindai-sync",
+    "name": "WiseMindAI Sync",
+    "author": "Chris",
+    "description": "Sync notes from Obsidian to WiseMindAI.",
+    "repo": "Chris8891/wisemindai-sync"
   }
 ]
